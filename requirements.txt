@@ -1,3 +1,3 @@
 pytexit
-ipywidgets==7.5.1
-voila==0.1.14
+ipywidgets
+voila
