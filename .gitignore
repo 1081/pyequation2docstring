@@ -1,0 +1,26 @@
+# FILENAME: .gitignore
+# LINK: https://gist.github.com/1081/d47f684b4ede44529507b86832a17e78
+
+# Created by https://www.gitignore.io/api/jupyternotebooks
+# Edit at https://www.gitignore.io/?templates=jupyternotebooks
+
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.vscode
+
+.DS_Store
+
+__pycache__
+
+venv
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+#
+
+# End of https://www.gitignore.io/api/jupyternotebooks
